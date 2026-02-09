@@ -37,3 +37,4 @@ catch (NullPointerException e) {
 Output:
 Error: Cannot call a method on a null object.
  */
+// ------------------------------------
